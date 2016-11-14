@@ -2,7 +2,7 @@
 title: Titanic Analysis
 description: "My experiments with Data Science"
 url: "https://sahoopa.github.io"
-encoding: UTF-8
+encoding: "utf-8"
 
 
 
@@ -11,7 +11,7 @@ baseurl: "/project-pages"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
-encoding: UTF-8
+encoding: "utf-8"
 
 # Tertiary Parameters
 github_username:  sahoopa
@@ -19,7 +19,7 @@ project_repository: project-pages
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
-encoding: UTF-8
+encoding: "utf-8"
 
 # Build settings
 gems: [jekyll-paginate]
