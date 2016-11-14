@@ -28,7 +28,7 @@ highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-encoding: UTF-8
+encoding: "utf-8"
 # Jekyll Settings
 
 defaults:
