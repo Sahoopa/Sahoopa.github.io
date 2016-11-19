@@ -1,16 +1,16 @@
 # Site settings
-title: Data Salience
-name: Data Salience
+title: My Journey to Data Science
+name: My Journey to Data Science
 header-img: img/home-bg.jpg
-email: me@gregvi.al
-description: "Data Science and the intuitions behind it"
+email: pds.bangalore@gmail.com	
+description: "My experiments and learnings in Data Science"
 baseurl: ""
 url: "http://ds.gregvi.al"
-#twitter_username: SBootstrap
-github_username:  GregVial
-#facebook_username:  StartBootstrap
-linkedin_username: in/gregoryvial
-email_username:  ds@gregvi.al
+#twitter_username: 
+github_username:  sahoopa
+#facebook_username:  
+linkedin_username: in/pallavisahoo
+email_username:  
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
